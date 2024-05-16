@@ -1,0 +1,52 @@
+body{
+    background-color: #b1b1b1;
+    display: flex;
+    font-family: Verdana;
+    font-size: 18px;
+    margin: 25px;
+}
+
+h1{
+    background-color: #5ec330;
+    color: white;
+    padding: 8px 0 10px 8px;
+    text-align: justify;
+    font-size: 30px;
+    border-left: black 10px solid;
+    border-radius: 0 50px 50px 0;
+    margin: 50px 45px 20px 45px;
+}
+
+.fundo{
+    background-color: white;
+    height: 780px;
+    padding-top: 20px;
+    margin: 0 auto;
+    text-align: center;
+    img{
+        padding-top: 8px;
+    }
+}
+
+.Principal{
+    width: 600px;
+    padding: 10px 50px 50px 50px;
+    text-align: justify;
+}
+
+ul{
+    margin: 35px;
+}
+
+.ultimoP{
+    margin-bottom: 30px;
+}
+
+.botao{
+    background-color: #5ec330;
+    color: white;
+    text-decoration: none;
+    border-radius: 150px;
+    padding: 10px 15px;
+    margin-top: 20px;
+}
